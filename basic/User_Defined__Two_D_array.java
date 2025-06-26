@@ -30,5 +30,4 @@ public class User_Defined__Two_D_array {
 	public static void main(String[] args) {
 		new User_Defined__Two_D_array();
 	}
-
 }

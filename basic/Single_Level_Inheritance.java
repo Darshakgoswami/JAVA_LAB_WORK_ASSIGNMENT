@@ -1,3 +1,5 @@
+// method hoy to (object . ) kari ne call karvi and constructor hoy to object banavsi to automatic call thay jase 
+
 package basic;
 class parent
 {

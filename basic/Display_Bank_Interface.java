@@ -12,5 +12,5 @@ public class Display_Bank_Interface
 	     System.out.println("SBI Rate of Interest: " + b1.getRateOfInterest() + "%");
 	     System.out.println("Axis Rate of Interest: " + b2.getRateOfInterest() + "%");
 	     System.out.println("BOB Rate of Interest: " + b3.getRateOfInterest() + "%");
-	    }
+	 }
 }

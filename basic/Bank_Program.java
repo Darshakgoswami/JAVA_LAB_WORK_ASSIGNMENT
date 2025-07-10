@@ -2,7 +2,7 @@ package basic;
 import java.util.Scanner;
 public class Bank_Program 
 {
-	public double balance;
+	private double balance;
 	
 	Bank_Program(double balance)
 	{

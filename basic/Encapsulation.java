@@ -1,3 +1,5 @@
+// Encapsulation Meaning Data-Hiding, and protect it from outside interference/world
+
 package basic;
 public class Encapsulation {
 	private int id;

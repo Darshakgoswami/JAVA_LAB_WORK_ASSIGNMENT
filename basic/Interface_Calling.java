@@ -1,3 +1,5 @@
+//interface method ma public lakhvu compulsory che, because default abstract hoy che etle
+
 package basic;
 
 public class Interface_Calling implements Interface, Final

@@ -1,3 +1,6 @@
+//throw uncheck exception
+//throws check exception
+
 package basic;
 
 public class Exception_Handling 

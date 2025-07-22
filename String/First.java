@@ -38,5 +38,6 @@ public class First
 		StringBuffer sb = new StringBuffer("abcd");
 		System.out.println(sb.reverse());
 	}
-
+	// string to int convert thase only digit
+	// int to string valueof this thase
 }

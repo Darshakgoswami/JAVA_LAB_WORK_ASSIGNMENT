@@ -1,3 +1,6 @@
+// SERIALIZATION MEANS OBJECT NE BYTE STREAM MA CONVERT KARESE.
+// MEANS BYTE CODE AAPSE
+
 package File.io;
 
 import java.io.FileInputStream;

@@ -19,7 +19,7 @@ public class Thread_2 implements Runnable
 		{
 			try
 			{
-				Thread.sleep(3000);
+				Thread.sleep(1000);
 				System.out.println(i);
 			}
 			catch(InterruptedException e)
